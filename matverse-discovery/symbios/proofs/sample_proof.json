@@ -1,0 +1,8 @@
+{
+  "leaf_hash": "abc123",
+  "path": [
+    {"hash": "def456", "side": "L"},
+    {"hash": "fedcba", "side": "R"}
+  ],
+  "root": "placeholder"
+}
